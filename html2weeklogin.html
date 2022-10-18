@@ -1,0 +1,259 @@
+
+
+
+<!DOCTYPE>
+<html>  
+
+<head>
+
+<style>  
+.abc{  
+
+padding:30px;  
+    border:10px solid pink;  
+    border-radius:20px;  
+    width:500px;
+    margin-top:30px;  
+color:blue;
+font-size:20px;
+background-color: brown;
+
+color:white;
+
+ 
+}
+
+
+
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+text-align:right;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+text-align:center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: RIGHT;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+
+
+a{  
+ color:green;  
+
+ margin-left: auto;
+  margin-right: auto;
+}    
+
+.btn{  
+ 
+
+ margin-left: auto;
+  margin-right: auto;
+}   
+body{  
+color:blue;  
+background-color:yellow; 
+ margin-left: auto;
+  margin-right: auto;
+
+
+ animation-name: example;
+  animation-duration: 20s;
+}  
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+table{  
+ 
+  margin-left: auto;
+  margin-right: auto;
+}
+}  
+
+form{  
+ 
+text-align:center;
+}  
+</style>
+
+<script type="text/javascript">
+      function registration()
+   {
+
+       var name= document.getElementById("t1").value;
+       var email= document.getElementById("t2").value;
+       var uname= document.getElementById("t3").value;
+       var pwd= document.getElementById("t4").value;           
+       var cpwd= document.getElementById("t5").value;
+       
+       //email id expression code
+       var pwd_expression = /^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-])/;
+       var letters = /^[A-Za-z]+$/;
+       var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+
+       if(name=='')
+       {
+           alert('Please enter your name');
+       }
+       
+       else if(email=='')
+       {
+           alert('Please enter your user email id');
+       }
+       else if (!filter.test(email))
+       {
+           alert('Invalid email');
+       }
+       else if(uname=='')
+       {
+           alert('Please enter the user name.');
+       }
+       else if(!letters.test(uname))
+       {
+           alert('User name field required only alphabet characters');
+       }
+       else if(pwd=='')
+       {
+           alert('Please enter Password');
+       }
+       else if(cpwd=='')
+       {
+           alert('Enter Confirm Password');
+       }
+       else if(!pwd_expression.test(pwd))
+       {
+           alert ('Upper case, Lower case, Special character and Numeric letter are required in Password filed');
+       }
+       else if(pwd != cpwd)
+       {
+           alert ('Password not Matched');
+       }
+       else if(document.getElementById("t5").value.length < 6)
+       {
+           alert ('Password minimum length is 6');
+       }
+       
+       else
+       {                                           
+              alert('Thank You for Registration & You are Redirecting to Website');
+
+              document.writeln(name);
+              document.writeln(email);
+              document.writeln(uname);
+              document.writeln(pwd);
+              document.writeln(cpwd);
+              // Redirecting to other page or webste code. 
+              
+       }
+   }
+ </script>
+
+</head>
+<body > 
+<h1> <b> <marquee style="color: black;" >7 DAYS RIDE FREE BOOK NOW  7 DAYS RIDE FREE BOOK NOW  7 DAYS RIDE FREE BOOK NOW  7 DAYS RIDE FREE BOOK NOW  7 DAYS RIDE FREE BOOK NOW</marquee></b></h1>
+
+<div  class="abc">
+ESPIRE CAB
+</div>
+</br>
+</br>
+
+
+<div class="tooltip"> *CLICK HERE TO KNOW MORE
+  <span class="tooltiptext">7 DAYS RIDE FREE BOOK NOW</span>
+</div>
+
+
+
+
+
+</br>
+</br>
+</br>
+</br>
+ <form >
+<table cellspacing="2" align="center" cellpadding="8" border="0">
+   <tr>
+   <td align="right">Enter Name :</td>
+   <td><input type="text" placeholder="Enter user here" id="t1" class="tb" /></td>
+   </tr>
+   <tr>
+   <td align="right">Enter Email ID :</td>
+   <td><input type="text" placeholder="Enter Email ID here" id="t2" class="tb" /></td>
+   </tr>
+   <tr>
+   <td align="right">Enter Username :</td>
+   <td><input type="text" placeholder="Enter Username here" id="t3" class="tb" /></td>
+   </tr>
+   <tr>
+   <td align="right">Enter Password :</td>
+   <td><input type="password" placeholder="Enter Password here" id="t4" class="tb" /></td>
+   </tr>
+   <tr>
+   <td align="right">Enter Confirm Password :</td>
+   <td><input type="password" placeholder="Enter Password here" id="t5" class="tb" /></td>
+   </tr>
+   <tr>
+   <td></td>
+   <td>
+   <input type="reset" value="Clear Form" id="res" class="btn" />
+   <input type="submit" value="Create Account" class="btn" onclick="registration()" /></td>
+   </tr>
+   </table>
+
+
+
+</form>
+
+
+
+
+
+     
+
+<a href="html2weekHOME.html"><button style="display:block; font-size:20; color:white; background-color:blue;  margin: 0 auto;">
+     LOGIN HERE
+    </button></a>
+  
+
+
+</body>
+
+
+
+</html>  
+
+</form>
+
+
+
+
+
+     
+
+
+
+
+</body>
+
+
+
+</html>  

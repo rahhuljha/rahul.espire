@@ -1,0 +1,1458 @@
+
+---------------------------------------------------------
+HOME.HTML
+---------------------------------------------------------
+
+
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+HOME
+</Title>  
+<style type=text/css>   
+body   
+{  
+height: 125vh;  
+margin-top: 80px;  
+padding: 30px;  
+background-size: cover;  
+font-family: sans-serif;  
+}  
+header {  
+background-color: orange;  
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 5px;  
+height: 30px;  
+display: flex;  
+align-items: center;  
+box-shadow: 0 0 25px 0 black;  
+}  
+header * {  
+display: inline;  
+}  
+header li {  
+margin: 20px;  
+}  
+header li a {  
+color: blue;  
+text-decoration: none;  
+}  
+</style>   
+</Head>  
+<Body>   
+<header>  
+<nav>  
+<ul>  
+<li>  
+<a href="#"> HOME</a>  
+</li>  
+<li>  
+<a href="html2weekproduct.html"> BUS TICKET </a>  
+</li>  
+<li>  
+<a href="htmlweekreview2.html"> REVIEWS </a>  
+</li>  
+<li> <a href="#"> CONTACT US </a>  
+</li>  
+<li>  
+<a href="html2weeklogin.html">LOGOUT </a>  
+</li>  
+</ul>  
+</nav>  
+</header>  
+
+
+<div style="border:1px solid pink;padding:20px;font-size:20px">  
+<h1> DELHI TO HARYANA</h1>
+
+<img src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/06/23/Pictures/_91e1f51e-5779-11e7-8fa7-9af4fbfb1c71.jpg"height="200" width="200" />  
+
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="200" width="200" />
+
+
+<img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="200" width="200" />
+
+
+<img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="200" width="200" /> 
+
+<img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="200" width="200" /> 
+
+</div> 
+
+<div style="border:1px solid pink;padding:20px;font-size:20px">  
+<h1> DELHI TO UP</h1>
+
+<img src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/06/23/Pictures/_91e1f51e-5779-11e7-8fa7-9af4fbfb1c71.jpg"height="200" width="200" />  
+
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="200" width="200" />
+
+
+<img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="200" width="200" />
+
+
+<img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="200" width="200" /> 
+
+<img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="200" width="200" /> 
+
+</div> 
+
+<div style="border:1px solid pink;padding:20px;font-size:20px">  
+<h1> DELHI TO UTTARAKHAND</h1>
+
+<img src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/06/23/Pictures/_91e1f51e-5779-11e7-8fa7-9af4fbfb1c71.jpg"height="200" width="200" />  
+
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="200" width="200" />
+
+
+<img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="200" width="200" />
+
+
+<img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="200" width="200" /> 
+
+<img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="200" width="200" /> 
+
+</div> 
+ 
+
+<div style="border:1px solid pink;padding:20px;font-size:20px">  
+<h1> DELHI TO JAMMUKASHMIR</h1>
+
+<img src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/06/23/Pictures/_91e1f51e-5779-11e7-8fa7-9af4fbfb1c71.jpg"height="200" width="200" />  
+
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="200" width="200" />
+
+
+<img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="200" width="200" />
+
+
+<img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="200" width="200" /> 
+
+<img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="200" width="200" /> 
+
+</div> 
+
+
+<div style="border:1px solid pink;padding:20px;font-size:20px">  
+<h1> DELHI TO MAHARASHTRA</h1>
+
+<img src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/06/23/Pictures/_91e1f51e-5779-11e7-8fa7-9af4fbfb1c71.jpg"height="200" width="200" />  
+
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="200" width="200" />
+
+
+<img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="200" width="200" />
+
+
+<img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="200" width="200" /> 
+
+<img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="200" width="200" /> 
+
+</div> 
+
+
+<div style="border:1px solid pink;padding:20px;font-size:20px">  
+<h1> DELHI TO SHIMLA</h1>
+
+<img src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/06/23/Pictures/_91e1f51e-5779-11e7-8fa7-9af4fbfb1c71.jpg"height="200" width="200" />  
+
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="200" width="200" />
+
+
+<img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="200" width="200" />
+
+
+<img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="200" width="200" /> 
+
+<img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="200" width="200" /> 
+
+</div> 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+</Body>   
+</Html>  
+
+--------------------------------------------------------------------------------------------------------
+
+LOGIN.HTML
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+
+
+<!DOCTYPE>
+<html>  
+
+<head>
+
+<style>  
+.abc{  
+
+padding:30px;  
+    border:10px solid pink;  
+    border-radius:20px;  
+    width:500px;
+    margin-top:30px;  
+color:blue;
+font-size:20px;
+background-color: brown;
+
+color:white;
+
+ 
+}
+
+
+
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+text-align:right;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+text-align:center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: RIGHT;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+
+
+a{  
+ color:green;  
+
+ margin-left: auto;
+  margin-right: auto;
+}    
+
+.btn{  
+ 
+
+ margin-left: auto;
+  margin-right: auto;
+}   
+body{  
+color:blue;  
+background-color:yellow; 
+ margin-left: auto;
+  margin-right: auto;
+
+
+ animation-name: example;
+  animation-duration: 20s;
+}  
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+table{  
+ 
+  margin-left: auto;
+  margin-right: auto;
+}
+}  
+
+form{  
+ 
+text-align:center;
+}  
+</style>
+
+<script type="text/javascript">
+      function registration()
+   {
+
+       var name= document.getElementById("t1").value;
+       var email= document.getElementById("t2").value;
+       var uname= document.getElementById("t3").value;
+       var pwd= document.getElementById("t4").value;           
+       var cpwd= document.getElementById("t5").value;
+       
+       //email id expression code
+       var pwd_expression = /^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-])/;
+       var letters = /^[A-Za-z]+$/;
+       var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+
+       if(name=='')
+       {
+           alert('Please enter your name');
+       }
+       
+       else if(email=='')
+       {
+           alert('Please enter your user email id');
+       }
+       else if (!filter.test(email))
+       {
+           alert('Invalid email');
+       }
+       else if(uname=='')
+       {
+           alert('Please enter the user name.');
+       }
+       else if(!letters.test(uname))
+       {
+           alert('User name field required only alphabet characters');
+       }
+       else if(pwd=='')
+       {
+           alert('Please enter Password');
+       }
+       else if(cpwd=='')
+       {
+           alert('Enter Confirm Password');
+       }
+       else if(!pwd_expression.test(pwd))
+       {
+           alert ('Upper case, Lower case, Special character and Numeric letter are required in Password filed');
+       }
+       else if(pwd != cpwd)
+       {
+           alert ('Password not Matched');
+       }
+       else if(document.getElementById("t5").value.length < 6)
+       {
+           alert ('Password minimum length is 6');
+       }
+       
+       else
+       {                                           
+              alert('Thank You for Registration & You are Redirecting to Website');
+
+              document.writeln(name);
+              document.writeln(email);
+              document.writeln(uname);
+              document.writeln(pwd);
+              document.writeln(cpwd);
+              // Redirecting to other page or webste code. 
+              
+       }
+   }
+ </script>
+
+</head>
+<body > 
+<h1> <b> <marquee style="color: black;" >7 DAYS RIDE FREE BOOK NOW  7 DAYS RIDE FREE BOOK NOW  7 DAYS RIDE FREE BOOK NOW  7 DAYS RIDE FREE BOOK NOW  7 DAYS RIDE FREE BOOK NOW</marquee></b></h1>
+
+<div  class="abc">
+ESPIRE CAB
+</div>
+</br>
+</br>
+
+
+<div class="tooltip"> *CLICK HERE TO KNOW MORE
+  <span class="tooltiptext">7 DAYS RIDE FREE BOOK NOW</span>
+</div>
+
+
+
+
+
+</br>
+</br>
+</br>
+</br>
+ <form >
+<table cellspacing="2" align="center" cellpadding="8" border="0">
+   <tr>
+   <td align="right">Enter Name :</td>
+   <td><input type="text" placeholder="Enter user here" id="t1" class="tb" /></td>
+   </tr>
+   <tr>
+   <td align="right">Enter Email ID :</td>
+   <td><input type="text" placeholder="Enter Email ID here" id="t2" class="tb" /></td>
+   </tr>
+   <tr>
+   <td align="right">Enter Username :</td>
+   <td><input type="text" placeholder="Enter Username here" id="t3" class="tb" /></td>
+   </tr>
+   <tr>
+   <td align="right">Enter Password :</td>
+   <td><input type="password" placeholder="Enter Password here" id="t4" class="tb" /></td>
+   </tr>
+   <tr>
+   <td align="right">Enter Confirm Password :</td>
+   <td><input type="password" placeholder="Enter Password here" id="t5" class="tb" /></td>
+   </tr>
+   <tr>
+   <td></td>
+   <td>
+   <input type="reset" value="Clear Form" id="res" class="btn" />
+   <input type="submit" value="Create Account" class="btn" onclick="registration()" /></td>
+   </tr>
+   </table>
+
+
+
+</form>
+
+
+
+
+
+     
+
+<a href="html2weekHOME.html"><button style="display:block; font-size:20; color:white; background-color:blue;  margin: 0 auto;">
+     LOGIN HERE
+    </button></a>
+  
+
+
+</body>
+
+
+
+</html>  
+
+</form>
+
+
+
+
+
+     
+
+
+
+
+</body>
+
+
+
+</html>  
+
+
+------------------------------------------------------------------------------------------------------------
+BUS TICKET.HTML
+
+------------------------------------------------------------------------------------------------------------
+
+
+
+
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+HOME
+</Title>  
+<style type=text/css>   
+body {  
+    background-color: rgba(255,0,0,0.5);;  
+}  
+
+.main{
+ border:1px solid pink;padding:20px;font-size:40px;color:white; background-color:yellow; text-align:center;
+}
+
+
+.a{
+ border:1px solid pink;padding:20px;font-size:20px;color:white; background-color:rgba(123,23,23,23.5);;
+}
+.b{
+ border:1px solid pink;padding:20px;font-size:20px ;color:white;  background-color:rgba(12,23,45,23.55);;
+}
+
+.c{
+ border:1px solid pink;padding:20px;font-size:20px;color:white; background-color:rgba(146,23,34,234.5);;
+}
+
+.d{
+ 
+border:1px solid pink;padding:20px;font-size:20px;color:white; background-color:rgba(167,233,45,34.5);;
+}
+
+.e{
+ border:1px solid pink;padding:20px;font-size:20px;color:white; background-color:rgba(23,23,56,45.5);;
+}
+
+.f{
+ border:1px solid pink;padding:20px;font-size:20px;color:white; background-color:rgba(234,22,56,45.5);;
+}
+
+
+
+
+
+
+</style>   
+</Head>  
+<Body>   
+
+<DIV class="main">
+ESPIRE CAB
+
+
+</DIV>
+<div class="a">
+ 
+
+  
+<label for="cars">DELHI TO UP</label>
+</br>
+<label for="cars">  CAR 1500$ 6 AM TO 10 AM</label>
+<img src="https://th.bing.com/th/id/R.eb2328c7887a06e033f07a083f1106a7?rik=mwpksDPWKLU94g&riu=http%3a%2f%2fstatic.dnaindia.com%2fsites%2fdefault%2ffiles%2fstyles%2ffull%2fpublic%2f2018%2f03%2f19%2f662483-614110-ola.jpg&ehk=zvd9F8An%2f1vKy1qhliITLR31kdUUU3pAkFz4M2aAp%2fs%3d&risl=&pid=ImgRaw&r=0height="100" width="100" />  
+
+<br>
+<label for="cars"> BIKE 500$ 10AM TO 6 PM</label>
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="100" width="100" /> 
+ <br>
+ <label for="cars">BOLERO 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://th.bing.com/th/id/R.b30be50ec474ff0e0b4831da7004b636?rik=DCHbLQa4TpooBQ&riu=http%3a%2f%2fcdni.autocarindia.com%2fExtraImages%2f20190705024348_Mahindra-Bolero-silver-front.jpg&ehk=8XYxvLEWsBOsSqJkYpEv%2f0wSD8ewjdK%2fnfCBMSx%2fzwY%3d&risl=&pid=ImgRaw&r=0 "height="100" width="100" />
+ <br>
+ <label for="cars">FOUR BILLOUR 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https:%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20210131124626_Tata_Safari_tracking_front.jpg&h=795&w=1200&c=1 "height="100" width="100" />
+ <br>
+ <label for="cars">SMALL CAR 2000$ 10AM TO 6 PM</label>
+ <img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="100" width="100" />
+ <br>
+ <label for="cars">SMALL VAN 3000$ 10AM TO 6 PM</label>
+ <img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="100" width="100" /> 
+ <br>
+ <label for="cars">AUTO 500$ 10AM TO 6 PM</label>
+ <img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="100" width="100" /> 
+<br>
+<br>
+
+<label for="cars">FROM</label>
+<li>
+ <select>
+  <option value="volvo">DELHI</option>
+  <option value="saab">KUSHI</option>
+  <option value="mercedes">HSRWALA</option>
+  <option value="audi">KOSHI</option>
+
+  <option value="saab">RUSIGARH</option>
+  <option value="mercedes">BANARS</option>
+  <option value="audi">ALIGARH</option>
+</select>
+
+</li> 
+
+
+<label for="cars">TO</label>
+<li>
+ <select>
+  <option value="volvo">KUSHI</option>
+  <option value="saab">ALIGARH</option>
+  <option value="mercedes">MIRZAPUR</option>
+  <option value="audi">NOIDA</option>
+
+  <option value="saab">GURUGRAM</option>
+  <option value="mercedes">NEW DELHI</option>
+  <option value="audi">SIKANDARPUR</option>
+</select>
+
+</li> 
+<a href="bill.html"><button style="display:block; font-size:20; color:white; background-color:blue;  margin: 0 auto;">
+  BUY TICKET
+ </button></a>
+
+</div>
+</br>
+</br>
+</br>
+</br>
+
+
+
+
+ <div class="b">
+ 
+<label for="cars">DELHI TO JAMMU KASHMIR </label></br>
+
+<label for="cars">  CAR 1500$ 6 AM TO 10 AM</label>
+<img src="https://th.bing.com/th/id/R.eb2328c7887a06e033f07a083f1106a7?rik=mwpksDPWKLU94g&riu=http%3a%2f%2fstatic.dnaindia.com%2fsites%2fdefault%2ffiles%2fstyles%2ffull%2fpublic%2f2018%2f03%2f19%2f662483-614110-ola.jpg&ehk=zvd9F8An%2f1vKy1qhliITLR31kdUUU3pAkFz4M2aAp%2fs%3d&risl=&pid=ImgRaw&r=0height="100" width="100" />  
+
+<br>
+<label for="cars"> BIKE 500$ 10AM TO 6 PM</label>
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="100" width="100" /> 
+ <br>
+ <label for="cars">BOLERO 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://th.bing.com/th/id/R.b30be50ec474ff0e0b4831da7004b636?rik=DCHbLQa4TpooBQ&riu=http%3a%2f%2fcdni.autocarindia.com%2fExtraImages%2f20190705024348_Mahindra-Bolero-silver-front.jpg&ehk=8XYxvLEWsBOsSqJkYpEv%2f0wSD8ewjdK%2fnfCBMSx%2fzwY%3d&risl=&pid=ImgRaw&r=0 "height="100" width="100" />
+ <br>
+ <label for="cars">FOUR BILLOUR 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https:%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20210131124626_Tata_Safari_tracking_front.jpg&h=795&w=1200&c=1 "height="100" width="100" />
+ <br>
+ <label for="cars">SMALL CAR 2000$ 10AM TO 6 PM</label>
+ <img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="100" width="100" />
+ <br>
+ <label for="cars">SMALL VAN 3000$ 10AM TO 6 PM</label>
+ <img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="100" width="100" /> 
+ <br>
+ <label for="cars">AUTO 500$ 10AM TO 6 PM</label>
+ <img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="100" width="100" /> 
+<br>
+<br>
+
+<label for="cars">FROM</label>
+
+<br>
+<br>
+
+
+<label for="cars">FROM</label>
+<li>
+ <select>
+  <option value="volvo">DELHI</option>
+  <option value="saab">KUSHI</option>
+  <option value="mercedes">HSRWALA</option>
+  <option value="audi">KOSHI</option>
+
+  <option value="saab">RUSIGARH</option>
+  <option value="mercedes">BANARS</option>
+  <option value="audi">ALIGARH</option>
+</select>
+
+</li> 
+
+
+<label for="cars">TO</label>
+<li>
+ <select>
+  <option value="volvo">KUSHI</option>
+  <option value="saab">ALIGARH</option>
+  <option value="mercedes">MIRZAPUR</option>
+  <option value="audi">NOIDA</option>
+
+  <option value="saab">GURUGRAM</option>
+  <option value="mercedes">NEW DELHI</option>
+  <option value="audi">SIKANDARPUR</option>
+</select>
+
+</li> 
+<a href=""bill.html""><button style="display:block; font-size:20; color:white; background-color:blue;  margin: 0 auto;">
+  BUY TICKET
+ </button></a>
+
+ 
+</div>
+</br>
+</br>
+</br>
+</br>
+
+
+<div class="c">
+<label for="cars">DEHI TO HARYANA</label></br>
+<label for="cars">  CAR 1500$ 6 AM TO 10 AM</label>
+<img src="https://th.bing.com/th/id/R.eb2328c7887a06e033f07a083f1106a7?rik=mwpksDPWKLU94g&riu=http%3a%2f%2fstatic.dnaindia.com%2fsites%2fdefault%2ffiles%2fstyles%2ffull%2fpublic%2f2018%2f03%2f19%2f662483-614110-ola.jpg&ehk=zvd9F8An%2f1vKy1qhliITLR31kdUUU3pAkFz4M2aAp%2fs%3d&risl=&pid=ImgRaw&r=0height="100" width="100" />  
+
+<br>
+<label for="cars"> BIKE 500$ 10AM TO 6 PM</label>
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="100" width="100" /> 
+ <br>
+ <label for="cars">BOLERO 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://th.bing.com/th/id/R.b30be50ec474ff0e0b4831da7004b636?rik=DCHbLQa4TpooBQ&riu=http%3a%2f%2fcdni.autocarindia.com%2fExtraImages%2f20190705024348_Mahindra-Bolero-silver-front.jpg&ehk=8XYxvLEWsBOsSqJkYpEv%2f0wSD8ewjdK%2fnfCBMSx%2fzwY%3d&risl=&pid=ImgRaw&r=0 "height="100" width="100" />
+ <br>
+ <label for="cars">FOUR BILLOUR 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https:%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20210131124626_Tata_Safari_tracking_front.jpg&h=795&w=1200&c=1 "height="100" width="100" />
+ <br>
+ <label for="cars">SMALL CAR 2000$ 10AM TO 6 PM</label>
+ <img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="100" width="100" />
+ <br>
+ <label for="cars">SMALL VAN 3000$ 10AM TO 6 PM</label>
+ <img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="100" width="100" /> 
+ <br>
+ <label for="cars">AUTO 500$ 10AM TO 6 PM</label>
+ <img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="100" width="100" /> 
+<br>
+<br>
+
+<label for="cars">FROM</label>
+
+
+
+<br>
+<br>
+<label for="cars">FEOM</label>
+<li>
+ <select>
+  <option value="volvo">DELHI</option>
+  <option value="saab">KUSHI</option>
+  <option value="mercedes">HSRWALA</option>
+  <option value="audi">KOSHI</option>
+
+  <option value="saab">RUSIGARH</option>
+  <option value="mercedes">BANARS</option>
+  <option value="audi">ALIGARH</option>
+</select>
+
+</li> 
+
+
+<label for="cars">TO</label>
+<li>
+ <select>
+  <option value="volvo">KUSHI</option>
+  <option value="saab">ALIGARH</option>
+  <option value="mercedes">MIRZAPUR</option>
+  <option value="audi">NOIDA</option>
+
+  <option value="saab">GURUGRAM</option>
+  <option value="mercedes">NEW DELHI</option>
+  <option value="audi">SIKANDARPUR</option>
+</select>
+
+</li> 
+<a href=""bill.html""><button style="display:block; font-size:20; color:white; background-color:blue;  margin: 0 auto;">
+  BUY TICKET
+ </button></a>
+
+
+</div>
+</br>
+</br>
+</br>
+</br>
+
+
+<div class="d">
+
+<label for="cars">FROM DELHI TO MAHARASTRA</label></br>
+
+
+<label for="cars">  CAR 1500$ 6 AM TO 10 AM</label>
+<img src="https://th.bing.com/th/id/R.eb2328c7887a06e033f07a083f1106a7?rik=mwpksDPWKLU94g&riu=http%3a%2f%2fstatic.dnaindia.com%2fsites%2fdefault%2ffiles%2fstyles%2ffull%2fpublic%2f2018%2f03%2f19%2f662483-614110-ola.jpg&ehk=zvd9F8An%2f1vKy1qhliITLR31kdUUU3pAkFz4M2aAp%2fs%3d&risl=&pid=ImgRaw&r=0height="100" width="100" />  
+
+<br>
+<label for="cars"> BIKE 500$ 10AM TO 6 PM</label>
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="100" width="100" /> 
+ <br>
+ <label for="cars">BOLERO 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://th.bing.com/th/id/R.b30be50ec474ff0e0b4831da7004b636?rik=DCHbLQa4TpooBQ&riu=http%3a%2f%2fcdni.autocarindia.com%2fExtraImages%2f20190705024348_Mahindra-Bolero-silver-front.jpg&ehk=8XYxvLEWsBOsSqJkYpEv%2f0wSD8ewjdK%2fnfCBMSx%2fzwY%3d&risl=&pid=ImgRaw&r=0 "height="100" width="100" />
+ <br>
+ <label for="cars">FOUR BILLOUR 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https:%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20210131124626_Tata_Safari_tracking_front.jpg&h=795&w=1200&c=1 "height="100" width="100" />
+ <br>
+ <label for="cars">SMALL CAR 2000$ 10AM TO 6 PM</label>
+ <img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="100" width="100" />
+ <br>
+ <label for="cars">SMALL VAN 3000$ 10AM TO 6 PM</label>
+ <img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="100" width="100" /> 
+ <br>
+ <label for="cars">AUTO 500$ 10AM TO 6 PM</label>
+ <img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="100" width="100" /> 
+<br>
+<br>
+
+<label for="cars">FROM</label>
+<br>
+<br>
+
+<label for="cars">FROM</label>
+<br>
+<br>
+<label for="cars">FEOM</label>
+<li>
+ <select>
+  <option value="volvo">DELHI</option>
+  <option value="saab">KUSHI</option>
+  <option value="mercedes">HSRWALA</option>
+  <option value="audi">KOSHI</option>
+
+  <option value="saab">RUSIGARH</option>
+  <option value="mercedes">BANARS</option>
+  <option value="audi">ALIGARH</option>
+</select>
+
+</li> 
+
+
+<label for="cars">TO</label>
+<li>
+ <select>
+  <option value="volvo">KUSHI</option>
+  <option value="saab">ALIGARH</option>
+  <option value="mercedes">MIRZAPUR</option>
+  <option value="audi">NOIDA</option>
+
+  <option value="saab">GURUGRAM</option>
+  <option value="mercedes">NEW DELHI</option>
+  <option value="audi">SIKANDARPUR</option>
+</select>
+
+</li> 
+<a href=""bill.html""><button style="display:block; font-size:20; color:white; background-color:blue;  margin: 0 auto;">
+  BUY TICKET
+ </button></a>
+
+</div>
+
+</br>
+</br>
+</br>
+</br>
+
+
+<div class="e"> 
+ 
+<label for="cars">DELHI TO UTTRAKHAND</label></br>
+
+
+<label for="cars">  CAR 1500$ 6 AM TO 10 AM</label>
+<img src="https://th.bing.com/th/id/R.eb2328c7887a06e033f07a083f1106a7?rik=mwpksDPWKLU94g&riu=http%3a%2f%2fstatic.dnaindia.com%2fsites%2fdefault%2ffiles%2fstyles%2ffull%2fpublic%2f2018%2f03%2f19%2f662483-614110-ola.jpg&ehk=zvd9F8An%2f1vKy1qhliITLR31kdUUU3pAkFz4M2aAp%2fs%3d&risl=&pid=ImgRaw&r=0height="100" width="100" />  
+
+<br>
+<label for="cars"> BIKE 500$ 10AM TO 6 PM</label>
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="100" width="100" /> 
+ <br>
+ <label for="cars">BOLERO 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://th.bing.com/th/id/R.b30be50ec474ff0e0b4831da7004b636?rik=DCHbLQa4TpooBQ&riu=http%3a%2f%2fcdni.autocarindia.com%2fExtraImages%2f20190705024348_Mahindra-Bolero-silver-front.jpg&ehk=8XYxvLEWsBOsSqJkYpEv%2f0wSD8ewjdK%2fnfCBMSx%2fzwY%3d&risl=&pid=ImgRaw&r=0 "height="100" width="100" />
+ <br>
+ <label for="cars">FOUR BILLOUR 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https:%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20210131124626_Tata_Safari_tracking_front.jpg&h=795&w=1200&c=1 "height="100" width="100" />
+ <br>
+ <label for="cars">SMALL CAR 2000$ 10AM TO 6 PM</label>
+ <img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="100" width="100" />
+ <br>
+ <label for="cars">SMALL VAN 3000$ 10AM TO 6 PM</label>
+ <img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="100" width="100" /> 
+ <br>
+ <label for="cars">AUTO 500$ 10AM TO 6 PM</label>
+ <img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="100" width="100" /> 
+<br>
+<br>
+
+<label for="cars">FROM</label>
+<br>
+<br>
+<label for="cars">FROM</label>
+<li>
+ <select>
+  <option value="volvo">DELHI</option>
+  <option value="saab">KUSHI</option>
+  <option value="mercedes">HSRWALA</option>
+  <option value="audi">KOSHI</option>
+
+  <option value="saab">RUSIGARH</option>
+  <option value="mercedes">BANARS</option>
+  <option value="audi">ALIGARH</option>
+</select>
+
+</li> 
+
+
+<label for="cars">TO</label>
+<li>
+ <select>
+  <option value="volvo">KUSHI</option>
+  <option value="saab">ALIGARH</option>
+  <option value="mercedes">MIRZAPUR</option>
+  <option value="audi">NOIDA</option>
+
+  <option value="saab">GURUGRAM</option>
+  <option value="mercedes">NEW DELHI</option>
+  <option value="audi">SIKANDARPUR</option>
+</select>
+
+</li> 
+
+<a href=""bill.html""><button style="display:block; font-size:20; color:white; background-color:blue;  margin: 0 auto;">
+  BUY TICKET
+ </button></a>
+
+</div>
+</br>
+</br>
+</br>
+</br>
+
+
+<div class="f"> 
+
+
+
+
+ 
+<label for="cars">DELHI TO BIHAR</label></br>
+
+<label for="cars">  CAR 1500$ 6 AM TO 10 AM</label>
+<img src="https://th.bing.com/th/id/R.eb2328c7887a06e033f07a083f1106a7?rik=mwpksDPWKLU94g&riu=http%3a%2f%2fstatic.dnaindia.com%2fsites%2fdefault%2ffiles%2fstyles%2ffull%2fpublic%2f2018%2f03%2f19%2f662483-614110-ola.jpg&ehk=zvd9F8An%2f1vKy1qhliITLR31kdUUU3pAkFz4M2aAp%2fs%3d&risl=&pid=ImgRaw&r=0height="100" width="100" />  
+
+<br>
+<label for="cars"> BIKE 500$ 10AM TO 6 PM</label>
+ <img src=" https://images.yourstory.com/cs/images/companies/rapido-1588061801805.png?fm=png&auto=formatar=1:1&mode=fill&fill=solid"height="100" width="100" /> 
+ <br>
+ <label for="cars">BOLERO 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://th.bing.com/th/id/R.b30be50ec474ff0e0b4831da7004b636?rik=DCHbLQa4TpooBQ&riu=http%3a%2f%2fcdni.autocarindia.com%2fExtraImages%2f20190705024348_Mahindra-Bolero-silver-front.jpg&ehk=8XYxvLEWsBOsSqJkYpEv%2f0wSD8ewjdK%2fnfCBMSx%2fzwY%3d&risl=&pid=ImgRaw&r=0 "height="100" width="100" />
+ <br>
+ <label for="cars">FOUR BILLOUR 1500$ 10AM TO 6 PM</label>
+ 
+ <img src="https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https:%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20210131124626_Tata_Safari_tracking_front.jpg&h=795&w=1200&c=1 "height="100" width="100" />
+ <br>
+ <label for="cars">SMALL CAR 2000$ 10AM TO 6 PM</label>
+ <img src=" https://images.carexpert.com.au/crop/800/500/vehicles/source-g/3/8/38854140.jpg"height="100" width="100" />
+ <br>
+ <label for="cars">SMALL VAN 3000$ 10AM TO 6 PM</label>
+ <img src="https://www.localmotionofboston.com/wp-content/uploads/2019/01/Local_Motion_Web-98.jpg" height="100" width="100" /> 
+ <br>
+ <label for="cars">AUTO 500$ 10AM TO 6 PM</label>
+ <img src="https://www.india.com/wp-content/uploads/2016/02/ola-auto.jpg" height="100" width="100" /> 
+<br>
+<br>
+
+<label for="cars">FROM</label>
+
+ 
+
+
+
+<br>
+<br>
+
+<label for="cars">FEOM</label>
+<li>
+ <select>
+  <option value="volvo">DELHI</option>
+  <option value="saab">KUSHI</option>
+  <option value="mercedes">HSRWALA</option>
+  <option value="audi">KOSHI</option>
+
+  <option value="saab">RUSIGARH</option>
+  <option value="mercedes">BANARS</option>
+  <option value="audi">ALIGARH</option>
+</select>
+
+</li> 
+
+
+<label for="cars">TO</label>
+<li>
+ <select>
+  <option value="volvo">KUSHI</option>
+  <option value="saab">ALIGARH</option>
+  <option value="mercedes">MIRZAPUR</option>
+  <option value="audi">NOIDA</option>
+
+  <option value="saab">GURUGRAM</option>
+  <option value="mercedes">NEW DELHI</option>
+  <option value="audi">SIKANDARPUR</option>
+</select>
+
+</li> 
+
+<a href=""bill.html""><button style="display:block; font-size:20; color:white; background-color:blue;  margin: 0 auto;">
+  BUY TICKET
+ </button></a>
+
+<div>
+
+
+
+
+
+<body>
+</html>
+
+
+-----------------------------------------------------------------------------------------------------------
+
+BILL.HTML
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+
+<html>
+
+<head>
+	<style>
+		body {
+			background-color: #001f4f;
+			font-family: 'Raleway', sans-serif;
+		}
+		
+		.container {
+			width: 550px;
+			height: 650px;
+			background-color: #fff;
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			transform: translateX(-50%) translateY(-50%);
+			border-radius: 20px;
+		}
+		
+		h1 {
+			position: absolute;
+			left: 50%;
+			top: -60px;
+			width: 200px;
+			transform: translateX(-50%);
+			background-color: #FF851B;
+			color: #fff;
+			font-weight: 200;
+			border-top-left-radius: 20px;
+			border-top-right-radius: 20px;
+			font-size: 18px;
+			text-align: center;
+			padding: 10px;
+		}
+		
+		.wrapper {
+			padding: 20px;
+		}
+		
+		input,
+		select {
+			width: 80%;
+			border: none;
+			border-bottom: 1px solid #0074D9;
+			padding: 10px;
+		}
+		
+		input:focus,
+		select:focus {
+			border: 1px solid #0074D9;
+			outline: none;
+		}
+		
+		select {
+			width: 77% !important;
+		}
+		
+		button {
+			margin: 10px auto;
+			width: 100px;
+			height: 50px;
+			background-color: #39CCCC;
+			color: #fff;
+			font-size: 16px;
+			border: none;
+			border-radius: 5px;
+		}
+		
+		.tip {
+			text-align: center;
+			font-size: 16px;
+			display: none;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="container">
+
+		
+		<div class="wrapper">
+			
+<h1>BOOK SEAT</h1>
+
+<p>ENTER AMMOUNT </p>
+
+
+
+			<input type="text"
+				id="amount"
+				placeholder="Amount to be paid"> ₹
+
+			
+
+
+<p>SELLECT CAR TYPE</p>
+
+
+
+			<select id="services">
+				<option selected disabled hidden>Select</option>
+				<option value="0.25">BOLERO</option>
+				<option value="0.20">RAPIDO</option>
+				<option value="0.15">CAR</option>
+				<option value="0.10">MINI BUS</option>
+				<option value="0.05">BUS</option>
+<option value="0.05">AUTO </option>
+
+			</select>
+
+<p>SELLECT CAR ROUTE from</p>
+
+
+
+			<select id="services">
+				<option selected disabled hidden>Select</option>
+				<option value="0.25">aligrah</option>
+				<option value="0.20">noida</option>
+				<option value="0.15">gurigraam</option>
+				<option value="0.10">sikandarpur</option>
+				<option value="0.05">brahmpoora</option>
+
+
+				<option value="0.25">aligrah</option>
+				<option value="0.20">noida</option>
+				<option value="0.15">gurigraam</option>
+				<option value="0.10">sikandarpur</option>
+				<option value="0.05">brahmpoora</option>
+<option value="0.05">AUTO </option>
+
+			</select>
+
+<p> TO</p>
+
+
+
+			<select id="services">
+				<option selected disabled hidden>Select</option>
+				<option value="0.25">aligrah</option>
+				<option value="0.20">noida</option>
+				<option value="0.15">gurigraam</option>
+				<option value="0.10">sikandarpur</option>
+				<option value="0.05">brahmpoora</option>
+
+
+				<option value="0.25">aligrah</option>
+				<option value="0.20">noida</option>
+				<option value="0.15">gurigraam</option>
+				<option value="0.10">sikandarpur</option>
+				<option value="0.05">brahmpoora</option>
+<option value="0.05">AUTO </option>
+
+			</select>
+
+			
+
+
+<p>NUMBER OF PERSON</p>
+
+
+
+			<input type="text"
+				id="persons"
+				placeholder="enter number of people">
+			<button id="calculate">Calculate</button>
+
+
+<a href="payment.html"><button id="calculate">Calculate</button>
+</a>
+     
+    </a>
+		</div>
+
+		<div class="tip">
+			
+
+
+<p id="ttl">TOTAL AMMOUNT </p>
+
+
+
+			<span id="total">0</span>₹
+			<span id="each">each</span>
+		</div>
+	</div>
+	<script>
+		//the function called when Calculate button is clicked.
+		window.onload = () =>
+			{
+				/*calling a function calculateTip which
+				will calculate the tip for the bill.*/
+				document.querySelector('#calculate').onclick =
+				calculateTip;
+			}
+
+		function calculateTip() {
+			/*assign values of ID : amount, person and
+			service to variables for further calculations.*/
+			let amount = document.querySelector('#amount').value;
+			let persons = document.querySelector('#persons').value;
+			let service = document.querySelector('#services').value;
+
+			console.log(service);
+			/*if statement will work when user
+			presses calculate without entering values. */
+			//so will display an alert box and return.
+			if (amount === '' && service === 'Select') {
+				alert("Please enter valid values");
+				return;
+			}
+
+			//now we are checking number of persons
+			if (persons === '1')
+//if there is only one person then we need not to display each.
+				document.querySelector('#each').style.display = 'none';
+			else
+			//if there are more than one person we will display each.
+				document.querySelector('#each').style.display = 'block';
+
+	/*calculating the tip by multiplying total-bill and type of service;
+	then dividing it by number of persons.*/
+			//fixing the total amount upto 2 digits of decimal
+			let total = (amount * persons);
+			total = total.toFixed(2);
+
+			//finally displaying the tip value
+			document.querySelector('.tip').style.display = 'block';
+			document.querySelector('#total').innerHTML = total;
+		}
+	</script>
+</body>
+
+</html>
+
+
+
+------------------------------------------------------------------------------------------------------
+
+REVIEW.HTML
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Font Awesome Icon Library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  margin: 0 auto; /* Center website */
+  max-width: 800px; /* Max width */
+  padding: 20px;
+}
+
+.heading {
+  font-size: 25px;
+  margin-right: 25px;
+}
+
+.fa {
+  font-size: 25px;
+}
+
+.checked {
+  color: orange;
+}
+
+
+.side {
+  float: left;
+  width: 15%;
+  margin-top:10px;
+}
+
+.middle {
+  margin-top:10px;
+  float: left;
+  width: 70%;
+}
+
+
+.right {
+  text-align: right;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.bar-container {
+  width: 100%;
+  background-color: #f1f1f1;
+  text-align: center;
+  color: white;
+
+.bar-5 {width: 60%; height: 18px; background-color: #04AA6D;}
+.bar-4 {width: 30%; height: 18px; background-color: #2196F3;}
+.bar-3 {width: 10%; height: 18px; background-color: #00bcd4;}
+.bar-2 {width: 4%; height: 18px; background-color: #ff9800;}
+.bar-1 {width: 15%; height: 18px; background-color: #f44336;}
+
+@media (max-width: 400px) {
+  .side, .middle {
+    width: 100%;
+  }
+  .right {
+    display: none;
+  }
+}
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+.container {
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0
+}
+
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.container img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.container span {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+@media (max-width: 500px) {
+  .container {
+      text-align: center;
+  }
+  .container img {
+      margin: auto;
+      float: none;
+      display: block;
+  }
+}
+
+</style>
+</head>
+<body>
+
+<span class="heading">User Rating</span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star"></span>
+<p>4.1 average based on 254 reviews.</p>
+<hr style="border:3px solid #f1f1f1">
+
+<div class="row">
+  <div class="side">
+    <div>5 star</div>
+  </div>
+  <div class="middle">
+    <div class="bar-container">
+      <div class="bar-5"></div>
+    </div>
+  </div>
+  <div class="side right">
+    <div>150</div>
+  </div>
+  <div class="side">
+    <div>4 star</div>
+  </div>
+  <div class="middle">
+    <div class="bar-container">
+      <div class="bar-4"></div>
+    </div>
+  </div>
+  <div class="side right">
+    <div>63</div>
+  </div>
+  <div class="side">
+    <div>3 star</div>
+  </div>
+  <div class="middle">
+    <div class="bar-container">
+      <div class="bar-3"></div>
+    </div>
+  </div>
+  <div class="side right">
+    <div>15</div>
+  </div>
+  <div class="side">
+    <div>2 star</div>
+  </div>
+  <div class="middle">
+    <div class="bar-container">
+      <div class="bar-2"></div>
+    </div>
+  </div>
+  <div class="side right">
+    <div>6</div>
+  </div>
+  <div class="side">
+    <div>1 star</div>
+  </div>
+  <div class="middle">
+    <div class="bar-container">
+      <div class="bar-1"></div>
+    </div>
+  </div>
+  <div class="side right">
+    <div>20</div>
+  </div>
+</div>
+
+<h2>Responsive Review</h2>
+<p>You can also put your review.</p>
+
+<div  style="border:1px solid pink;padding:20px;font-size:20px">
+  <img src="/w3images/bandmember.jpg" alt="Avatar" style="width:90px">
+  <p><span>Chris Fox.</span> CEO at Mighty Schools.</p>
+  <p>John Doe saved us from a web disaster.</p>
+</div>
+
+<div  style="border:1px solid pink;padding:20px;font-size:20px">
+       
+  <img src="/w3images/avatar_g2.jpg" alt="Avatar" style="width:90px">
+  <p><span>Rebecca Flex.</span> CEO at Company.</p>
+  <p>No one is better than John Doe.</p>
+</div>
+
+</body>
+</html>
+
+
+
+
+
